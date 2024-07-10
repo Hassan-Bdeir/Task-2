@@ -1,0 +1,77 @@
+.body-type{
+    background-color: gray;
+}
+.title-3D{
+    font-size: 40px;
+    color: rgb(153, 80, 21);
+    text-shadow: 1px 1px 0 #999,
+                 2px 2px 0 #888,
+                 3px 3px 0 #777,
+                 4px 4px 0 #666,
+                 5px 5px 0 #555;
+}
+.title-3D-2{
+    font-size: 20px;
+    color:black;
+    text-shadow: 1px 1px 0 #999,
+                 2px 2px 0 #888,
+                 3px 3px 0 #777,
+                 4px 4px 0 #666,
+                 5px 5px 0 #555;
+}
+img{
+    box-shadow: 0 0 10px rgba(249, 249, 249, 0.5);
+    margin: 10px;
+    max-width: 30%;
+    height: auto;
+}
+
+.division-1{
+display:flex;
+justify-content: center;
+}
+.division-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.division-3{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: auto;
+}
+.division-4{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: auto;
+}
+.division-5{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: auto;
+}
+.division-6{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: auto;
+}
+.form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-style: italic;
+}
+.button1{
+    background-color: darkblue;
+    cursor: pointer;
+    font-size: 20px;
+    color: whitesmoke;
+}
