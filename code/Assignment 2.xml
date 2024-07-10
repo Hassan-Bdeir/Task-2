@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StadiumsInGermany>
+    <Stadium>
+        <Title>Allianz Arena</Title>
+        <Cost>340 million euros</Cost>
+        <BuiltIn>2005</BuiltIn>
+        <Capacity>75,000 seats</Capacity>
+        <Description><![CDATA[This Stadium Is Home To FC Bayern München]]></Description>
+    </Stadium>
+    <Stadium>
+        <Title>Deutsche Bank Park</Title>
+        <Cost>126 million euros</Cost>
+        <BuiltIn>2005</BuiltIn>
+        <Capacity>51,500 seats and 9,300 standing</Capacity>
+        <Description><![CDATA[This Stadium Is Home To Eintracht Frankfurt]]></Description>
+    </Stadium>
+     <Stadium>
+        <Title>Fritz-Walter-Stadion</Title>
+        <Cost>73.5 million euros</Cost>
+        <BuiltIn>2003</BuiltIn>
+        <Capacity>49,780 seats and 15,426 standing</Capacity>
+        <Description><![CDATA[This Stadium Is Home To FC Kaiserslautern]]></Description>
+    </Stadium>
+     <Stadium>
+        <Title>Mercedes-Benz Arena</Title>
+        <Cost>165 million euros</Cost>
+        <BuiltIn>2008</BuiltIn>
+        <Capacity>60,441 seats and 11,121 standing</Capacity>
+        <Description><![CDATA[This Stadium Is Home To VfB Stuttgart]]></Description>
+    </Stadium>
+     <Stadium>
+        <Title>Olympiastadion</Title>
+        <Cost>240 million euros</Cost>
+        <BuiltIn>2004</BuiltIn>
+        <Capacity>74,649 seats</Capacity>
+        <Description><![CDATA[This Stadium Is Home To Hertha BSC]]></Description>
+    </Stadium>
+     <Stadium>
+        <Title>Red Bull Arena</Title>
+        <Cost>90 million euros</Cost>
+        <BuiltIn>2004</BuiltIn>
+        <Capacity>42,959 seats</Capacity>
+        <Description><![CDATA[This Stadium Is Home To RB Leipzig]]></Description>
+    </Stadium>
+     <Stadium>
+        <Title>RheinEnergieStadion</Title>
+        <Cost>119.5 million euros</Cost>
+        <BuiltIn>2004</BuiltIn>
+        <Capacity>50,000 seats and 8,175 standing</Capacity>
+        <Description><![CDATA[This Stadium Is Home To FC Köln]]></Description>
+    </Stadium>
+     <Stadium>
+        <Title>Signal Iduna Park.</Title>
+        <Cost>200 million euros</Cost>
+        <BuiltIn>2006</BuiltIn>
+        <Capacity>81,359 seats and 25,000 standing</Capacity>
+        <Description><![CDATA[This Stadium Is Home To Borussia Dortmund]]></Description>
+    </Stadium>
+     <Stadium>
+        <Title>VELTINS-Arena</Title>
+        <Cost>191 million euros</Cost>
+        <BuiltIn>2001</BuiltIn>
+        <Capacity>61,673 seats and 16,000 standing</Capacity>
+        <Description><![CDATA[This Stadium Is Home To FC Schalke ]]></Description>
+    </Stadium>
+     <Stadium>
+        <Title>Volksparkstadion</Title>
+        <Cost>100 million euros</Cost>
+        <BuiltIn>2000</BuiltIn>
+        <Capacity>57,000 seats and 10,000 standing</Capacity>
+        <Description><![CDATA[This Stadium Is Home To Hamburger SV]]></Description>
+    </Stadium>
+</StadiumsInGermany>
